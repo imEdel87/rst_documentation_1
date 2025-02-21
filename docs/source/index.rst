@@ -1,17 +1,49 @@
-Welcome to Lumache's documentation!
-===================================
+.. _h1:
+Nagłówek tekstowy poziomu 1
+============================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+============================
+Nagłówek tekstowy poziomu 2
+============================
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Nagłówek tekstowy poziomu 3
+----------------------------
 
-.. note::
+Naglówek tekstowy poziomu 4
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-   This project is under active development.
+Akapit tekstowy
+
+.. Note::
+   akapit informacyjny typu note
+
+.. tip::
+   akapit informacyjny typu tip
+
+:code:`println!("Hello World - Fragmentowy");`
+
+:: code-block::
+   fn main() {
+      println!("Hello World");   
+   }
+
+:ref:`_h1
+
+`link description <https://www.writethedocs.org/guide/writing/reStructuredText/>`
+
+Lista wypunktowana
+----------------------------
+#. first item
+#. second item
+
+Lista wypunktowana
+----------------------------
+*  Item
+*  Item
+*  Item
+
+.. |filename| image:: images/path/filename.png
+               :alt: Text describing the image
 
 Contents
 --------
