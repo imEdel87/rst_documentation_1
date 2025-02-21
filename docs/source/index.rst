@@ -29,7 +29,7 @@ Akapit tekstowy
 
 :ref:`_h1
 
-`link description <https://www.writethedocs.org/guide/writing/reStructuredText/>`
+`link description https://www.writethedocs.org/guide/writing/reStructuredText/`
 
 Lista wypunktowana
 ----------------------------
