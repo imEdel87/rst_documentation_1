@@ -22,7 +22,7 @@ Akapit tekstowy
 
 :code:`println!("Hello World - Fragmentowy");`
 
-:: code-block::
+.. code-block:: rust
    fn main() {
       println!("Hello World");   
    }
