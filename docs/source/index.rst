@@ -1,4 +1,4 @@
-.. _h1:
+.. _Naglowek tekstowy poziomu 1:
 Nagłówek tekstowy poziomu 1
 ============================
 
@@ -34,11 +34,11 @@ Akapit tekstowy
          'Site Package'
     );
 
-:ref:`_h1`
+:ref:`Naglowek tekstowy poziomu 1`
 
 `link description https://www.writethedocs.org/guide/writing/reStructuredText/`
 
-Lista wypunktowana
+Lista numerowana
 ----------------------------
 #. first item
 #. second item
