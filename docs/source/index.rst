@@ -36,7 +36,7 @@ Akapit tekstowy
 
 :ref:`Naglowek tekstowy poziomu 1`
 
-`link description <https://www.writethedocs.org/guide/writing/reStructuredText/>`_
+`External link <https://www.writethedocs.org/guide/writing/reStructuredText/>`_
 
 Lista numerowana
 ----------------------------
