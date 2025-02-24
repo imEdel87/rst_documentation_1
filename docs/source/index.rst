@@ -22,11 +22,17 @@ Akapit tekstowy
 
 :code:`println!("Hello World - Fragmentowy");`
 
-.. code-block:: rust
-   fn main() {
-      println!("Hello World");   
-   }
+..  code-block:: php
+    :caption: EXT:site_package/Configuration/TCA/Overrides/sys_template.php
 
+    /**
+     * Add default TypoScript (constants and setup)
+     */
+    \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addStaticFile(
+         'site_package',
+         'Configuration/TypoScript',
+         'Site Package'
+    );
 
 :ref:`_h1
 
